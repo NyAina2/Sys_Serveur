@@ -28,4 +28,9 @@
                     <p>Ou dans /etc/fstab :</p>
                     <p>$ 192.168.21.200:/media/partage /media/nfs nfs auto,_netdev,nofail,soft,retrans=2,timeo=5 0 0</p>
                     
-                    <a href="https://github.com/NyAina2/Sys_serveur">Retour</a>
+            
+
+
+
+
+        <a href="https://github.com/NyAina2/Sys_serveur">Retour</a>
