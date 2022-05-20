@@ -17,3 +17,4 @@
             <p>Remplacer utilisateur1 avec l'utilisateur de partage samba pour créer. Définissez le mot 
                 de passe utilisateur et confirmez. $ sudo smbpasswd -a user1 Nouveau mot de passe SMB: Retapez 
                 le nouveau mot de passe SMB: Utilisateur ajouté user1.</p>
+                        <a href="https://github.com/NyAina2/Sys_serveur">Retour</a>
